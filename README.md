@@ -10,7 +10,7 @@ All resources for things that I have learned from my 4 years in college that are
 
 **Year-4: Data Mining (a guide to statistical learning, Linear regression (linear mdoels with R 2nd edition), Theorhetical Statistics: (intro to stats theory-rice), Bayes analysis (introduction to bayes analysis), AI (Hands on ML with Keras & tensorflow)**
 
-**other books to read: Experimental design, intro to sample theory, data analysis, and python for data Science**
+**other books to read: Experimental design, intro to sample theory, data analysis, and python for Data Science, Statistics and Data Analysis for Financial Engineering, and Causality**
 
 
 Hope this list will help more to come in the following months. 
